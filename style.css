@@ -8,3 +8,16 @@ h3{
     color: blue;
     margin-left: 50px;
 }
+
+h6{
+    color: green;
+    font-size: 14pt;
+}
+
+p{
+    color: grey
+}
+
+div{
+    background-color: aqua
+}
